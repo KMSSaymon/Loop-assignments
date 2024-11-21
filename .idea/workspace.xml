@@ -1,32 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebca94ee-e3dc-4d4f-9f6b-ca5c15f06b17" name="Changes" comment="" />
+    <list default="true" id="ebca94ee-e3dc-4d4f-9f6b-ca5c15f06b17" name="Changes" comment="Chapter 6 loops assignments from E6-1 to E6-23">
+      <change afterPath="$PROJECT_DIR$/src/BinaryExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryExtractorRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculationsRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterPrinterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CrossPatternRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyConverterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataSetRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DualCurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DualCurrencyConverterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HighestTemperatureMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HighestTemperatureMonthRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HollowDiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HollowDiamondPatternRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HollowSquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HollowSquarePatternRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOperationRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerCalculatorRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOperationRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubstringSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VowelCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VowelCounterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordReverserRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2pAuVTzBb7JAABWVerwMn31CPxH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinaryExtractorRunner.executor": "Run",
+    "Application.CalculationsRunner.executor": "Run",
+    "Application.CharacterPrinterRunner.executor": "Run",
+    "Application.CrossPatternRunner.executor": "Run",
+    "Application.CurrencyConverterRunner.executor": "Run",
+    "Application.DataSetRunner.executor": "Run",
+    "Application.DiamondPattern.executor": "Run",
+    "Application.HighestTemperatureMonthRunner.executor": "Run",
+    "Application.HollowDiamondPattern.executor": "Run",
+    "Application.HollowDiamondPatternRunner.executor": "Run",
+    "Application.HollowSquarePatternRunner.executor": "Run",
+    "Application.MinimumValue.executor": "Run",
+    "Application.MinimumValueRunner.executor": "Run",
+    "Application.MultiplicationTableRunner.executor": "Run",
+    "Application.NumberOperationRunner.executor": "Run",
+    "Application.PowerCalculatorRunner.executor": "Run",
+    "Application.StringOperationRunner.executor": "Run",
+    "Application.StringPermutation.executor": "Run",
+    "Application.SubstringSorter.executor": "Run",
+    "Application.VowelCounterRunner.executor": "Run",
+    "Application.WordReverserRunner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "E6-22",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.DualCurrencyConverterRunner">
+    <configuration name="DualCurrencyConverterRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DualCurrencyConverterRunner" />
+      <module name="Loop assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighestTemperatureMonthRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestTemperatureMonthRunner" />
+      <module name="Loop assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOperationRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOperationRunner" />
+      <module name="Loop assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringOperationRunner" />
+      <module name="Loop assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringPermutation" />
+      <module name="Loop assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DualCurrencyConverterRunner" />
+        <item itemvalue="Application.StringPermutation" />
+        <item itemvalue="Application.StringOperationRunner" />
+        <item itemvalue="Application.NumberOperationRunner" />
+        <item itemvalue="Application.HighestTemperatureMonthRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +158,42 @@
       <option name="presentableId" value="Default" />
       <updated>1732221225722</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter 6 loops assignments from E6-1 to E6-23">
+      <option name="closed" value="true" />
+      <created>1732221509363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732221509363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter 6 loops assignments from E6-1 to E6-23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 loops assignments from E6-1 to E6-23" />
   </component>
 </project>
